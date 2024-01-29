@@ -5,7 +5,7 @@ React Native Sections with scrollable tabs
 ## Installation
 
 ```bash
-$ yarn add react-native-secontions
+$ yarn add react-native-sections
 ```
 
 ## Props
